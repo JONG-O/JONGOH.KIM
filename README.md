@@ -1,4 +1,4 @@
-# Machine Learning 
+# Machine Learning & Deep Learning
 
 1. 과거에 공부한 내용
    - Andrew Ng Lecture @ Standford Univiersity
