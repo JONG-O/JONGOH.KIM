@@ -6,6 +6,6 @@
    
 2. 요즈음 공부하는 내용
    - Tensorflow https://www.tensorflow.org/
-   - Reinforcement Learning 
+   - Reinforcement Learning
      : David Silver Lecture @ Oxford University  http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html     
      : Richard S. Sutton  https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf
