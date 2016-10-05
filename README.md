@@ -6,4 +6,4 @@
    
 2. 요즈음 공부하는 내용
    - Reinforcement Learning 
-     : David Silver Lecture @ Oxford University 
+     : David Silver Lecture @ Oxford University  http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
