@@ -8,9 +8,10 @@
 2. Studying and interesting research topic
    - Tensorflow https://www.tensorflow.org/
    - [Book] Tensorflow 1.x Deep learning Cookbook
+   - [Book] Hands-On Reinforcement Learning with Python: Master reinforcement and ..
    - Reinforcement Learning   
      : David Silver Lecture @ Oxford University  http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html     
-     : Richard S. Sutton  https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf
+     [Book] Richard S. Sutton  https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf
  
  
  3. Development Skill
