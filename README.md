@@ -14,7 +14,7 @@
  
  
  3. Development Skill
-   - Java programming language
-   - Android platform 
-   - [Studyging] Swift programming language
-   - Python
+    - Java programming language
+    - Android platform 
+    - [Studyging] Swift programming language
+    - Python
