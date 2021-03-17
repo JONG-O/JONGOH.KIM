@@ -19,3 +19,5 @@
     - Android platform 
     - [Studyging] Swift programming language
     - Python
+    - Flutter
+
