@@ -1,4 +1,4 @@
-# Machine Learning & Deep Learning
+# Machine/Deep & Reinforcement Learning
 
 1. Done to study : Machine learing introduction, Neural Network for Image Classification
    - [Lecture] Andrew Ng @ Standford Univiersity https://www.coursera.org/learn/machine-learning
